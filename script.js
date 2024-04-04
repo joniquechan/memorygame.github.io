@@ -1,3 +1,4 @@
+
 let cards = [];
 let cardValues = ['#8FC0A9', '#A799B7', '#8D89A6', '#ADF1D2', '#FEEAFA', '#2C2C34', '#B84A62', '#FCE694'];
 let flippedCards = [];
@@ -59,3 +60,4 @@ function startGame() {
 }
 
 startGame();
+let triggerConfetti = new Confetti();
